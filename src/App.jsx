@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-    {/* IMPORT ANY COMPONENT HERE FROM ./Components/ */}
+      {/* IMPORT ANY COMPONENT HERE FROM ./Components/ */}
     </>
       )
 }

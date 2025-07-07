@@ -60,29 +60,4 @@ function Accordion() {
 
 export default Accordion;
 
-// const [toggle,setToggle]=useState(false);
-// const [objId,setObjId]=useState(null);
-// function toggleFunc(selectedId){
-//     setObjId(selectedId==objId? null: selectedId)
-//     }
 
-// return (
-//     <div className="container">
-//         {
-//             data.map((element,index)=>(
-//                <div key={index}>
-//                 <h1 className="heading">
-//                     {element.question}
-//                     <button className="expand-btn" onClick={()=>toggleFunc(element.id)}>
-//                         +
-//                     </button>
-//                 </h1>
-//         {
-//             objId===element.id ?
-//             <p className="para">{element.answers}</p> : null
-//         }
-//         </div>))
-//         }
-//     </div>
-
-//    )

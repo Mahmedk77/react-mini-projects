@@ -7,12 +7,12 @@ A collection of beginner to intermediate level React components and mini project
 ## 📁 Projects Included
 
 - 📂 `Accordian` – Expandable content section  
-<!-- - 🎨 `ColorGen` – Random color generator  
-- 🎯 `ColorPicker` – Interactive color palette  
+- 🎨 `ColorGen` – Random color generator  
+<!-- - 🎯 `ColorPicker` – Interactive color palette  
 - 🖼 `ImageSlider` – Simple image carousel  
 - ⭐ `StarRating` – Clickable star rating UI  
 - ⏱ `StopWatch` – Start/pause/reset timer  
-- 🌳 `Tree View` – Collapsible file/folder structure   -->
+- 🌳 `Tree View` – Collapsible file/folder structure   --> 
 <!-- - 🔗 `TreeLink` – Tree layout with navigation links   -->
 
 ---
