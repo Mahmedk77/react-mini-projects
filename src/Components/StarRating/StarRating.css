@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: black; */
+}
+.container{
+    height: 100vh;
+    /* border: 1px solid red; */
+    /* width: 20rem; */
+    /* aspect-ratio: 1; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5rem;
+    & h1{
+        &:hover{
+            &::before{
+                content: '😀';
+                position: absolute;
+
+            }
+        }
+    }
+
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.active {
+    color: #fff700;
+  }
+  
+  .inactive {
+    color: #000000;
+  }
